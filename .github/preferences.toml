@@ -5,7 +5,7 @@ os     = "Fedora Linux x86_64 (Hyprland + DMS)"
 uptime = "24/05/2021" # github account created 2021-05-24
 host   = "Modern Academy Maadi, Egypt"
 kernel = "BSc Computer Science"
-ide    = "VS Code, Obsidian"
+ide    = "LazyVim"
 
 [languages]
 secondary = "English"

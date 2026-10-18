@@ -91,52 +91,7 @@
             y="35.98"
           >─ ───────────────────── ─</tspan></text>
 </g>
-<g id="Operation System" class="reveal" style="animation-delay:0.045s">
-<g id="Option">
-<text
-            fill="#86BEFF"
-            style="white-space: pre"
-            xml:space="preserve"
-            font-family="JetBrains Mono"
-            font-size="18"
-            letter-spacing="0em"
-          ><tspan x="410" y="59.98">. </tspan><tspan
-              x="453.172"
-              y="59.98"
-            >:</tspan></text>
-<text
-            fill="#FFBD83"
-            style="white-space: pre"
-            xml:space="preserve"
-            font-family="JetBrains Mono"
-            font-size="18"
-            letter-spacing="0em"
-          ><tspan x="431.586" y="59.98">OS</tspan></text>
-</g>
-<text
-          id="Dots"
-          fill="#86BEFF"
-          style="white-space: pre"
-          xml:space="preserve"
-          font-family="JetBrains Mono"
-          font-size="11"
-          font-weight="300"
-          letter-spacing="0.3em"
-        ><tspan
-            x="477.423"
-            y="57.46"
-          >..................................</tspan></text>
-<text
-          id="Value"
-          fill="#86BEFF"
-          style="white-space: pre"
-          xml:space="preserve"
-          font-family="JetBrains Mono"
-          font-size="18"
-          letter-spacing="0em"
-          text-anchor="end"
-        ><tspan x="1105" y="59.98">Fedora Linux x86_64 (Hyprland + DMS)</tspan></text>
-</g>
+<g transform="translate(0,-24)">
 <g id="Uptime" class="reveal" style="animation-delay:0.09s">
 <g id="Option_2">
 <text
@@ -362,7 +317,7 @@
           font-size="18"
           letter-spacing="0em"
           text-anchor="end"
-        ><tspan x="1105" y="203.98">TypeScript, Shell, QML, Python, JavaScript</tspan></text>
+        ><tspan x="1105" y="203.98">TypeScript, Shell, Python, CSS, HTML</tspan></text>
 </g>
 <g id="Languange.Native" class="reveal" style="animation-delay:0.315s">
 <g id="Option_7">
@@ -544,6 +499,7 @@
             x="1105"
             y="323.98"
           >Docker, Linux, Git, Bash</tspan></text>
+</g>
 </g>
 <g transform="translate(0,-168)">
 <g id="Stats" class="reveal" style="animation-delay:0.72s">
@@ -743,7 +699,7 @@
               font-size="18"
               letter-spacing="0em"
               text-anchor="end"
-            ><tspan x="783.207" y="611.98">744.46k</tspan></text>
+            ><tspan x="783.207" y="611.98">744.38k</tspan></text>
 </g>
 </g>
 <g id="Mid">

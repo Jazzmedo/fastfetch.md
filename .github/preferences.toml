@@ -12,7 +12,7 @@ secondary = "English"
 native    = "Arabic"
 
 [skills]
-softskill = "Hyprland ricing, QML widgets"
+softskill = "Rust, DevOps"
 hardskill = "Docker, Linux, Git, Bash"
 
 # contact rows were removed from the fork's templates

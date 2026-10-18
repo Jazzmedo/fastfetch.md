@@ -94,7 +94,7 @@ pub async fn fetch_stats(username: &str) -> Result<Stats, String> {
 
 /// Agregasi ukuran bahasa dari semua repo, ambil 5 teratas (urut terbesar).
 fn aggregate_top_languages(repos: &[RepoNode]) -> String {
-    const EXCLUDED: [&str; 1] = ["Rust"];
+    const EXCLUDED: [&str; 3] = ["Rust", "JavaScript", "QML"];
     let mut lang_totals: HashMap<String, u64> = HashMap::new();
     for repo in repos {
         for edge in &repo.languages.edges {

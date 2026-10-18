@@ -91,52 +91,7 @@
             y="35.98"
           >─ ───────────────────── ─</tspan></text>
 </g>
-<g id="Operation System" class="reveal" style="animation-delay:0.045s">
-<g id="Option">
-<text
-            fill="#86BEFF"
-            style="white-space: pre"
-            xml:space="preserve"
-            font-family="JetBrains Mono"
-            font-size="18"
-            letter-spacing="0em"
-          ><tspan x="410" y="59.98">. </tspan><tspan
-              x="453.172"
-              y="59.98"
-            >:</tspan></text>
-<text
-            fill="#FFBD83"
-            style="white-space: pre"
-            xml:space="preserve"
-            font-family="JetBrains Mono"
-            font-size="18"
-            letter-spacing="0em"
-          ><tspan x="431.586" y="59.98">OS</tspan></text>
-</g>
-<text
-          id="Dots"
-          fill="#86BEFF"
-          style="white-space: pre"
-          xml:space="preserve"
-          font-family="JetBrains Mono"
-          font-size="11"
-          font-weight="300"
-          letter-spacing="0.3em"
-        ><tspan
-            x="477.423"
-            y="57.46"
-          >..................................</tspan></text>
-<text
-          id="Value"
-          fill="#86BEFF"
-          style="white-space: pre"
-          xml:space="preserve"
-          font-family="JetBrains Mono"
-          font-size="18"
-          letter-spacing="0em"
-          text-anchor="end"
-        ><tspan x="1105" y="59.98">{{os}}</tspan></text>
-</g>
+<g transform="translate(0,-24)">
 <g id="Uptime" class="reveal" style="animation-delay:0.09s">
 <g id="Option_2">
 <text
@@ -544,6 +499,7 @@
             x="1105"
             y="323.98"
           >{{hardskill}}</tspan></text>
+</g>
 </g>
 <g transform="translate(0,-168)">
 <g id="Stats" class="reveal" style="animation-delay:0.72s">

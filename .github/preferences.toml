@@ -1,6 +1,6 @@
 [host]
 username = "7anafi"
-hostname = "fedora"
+hostname = "ricebox"
 os     = "Fedora Linux x86_64 (Hyprland + DMS)"
 uptime = "24/05/2021" # github account created 2021-05-24
 host   = "Modern Academy Maadi, Egypt"
@@ -13,7 +13,7 @@ native    = "Arabic"
 
 [skills]
 softskill = "Hyprland ricing, QML widgets"
-hardskill = "Dell - Intel HD 630"
+hardskill = "Docker, Linux, Git, Bash"
 
 # contact rows were removed from the fork's templates
 [contact]
